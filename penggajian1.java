@@ -31,7 +31,8 @@ public class penggajian1 {
             System.out.println("Lanjutkan ? YA(1)/ Tidak(2) = ");
             lanjut = AA.nextInt();
             System.out.println("");
-        } while (lanjut == 1);
+        } 
+        while (lanjut == 1);
         System.out.println("TERIMA KASIH");
     }
 }
